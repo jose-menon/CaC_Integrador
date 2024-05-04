@@ -1,0 +1,119 @@
+/* Estilos generales */
+header {
+    background-color: #625b5b; /* Color de fondo oscuro */
+    color: white; /* Texto en color blanco */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Alineación centrada del texto */
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.clase-personalizada{
+    background-color: cornflowerblue;
+}
+.button{
+    display: flex;
+    margin-top: 5px;
+    border-radius: 5px;
+  }
+header{
+    background-color: #333; /* Color de fondo oscuro */
+    color: white; /* Texto en color blanco */
+    padding: 20px; /* Espaciado interno */
+    text-align: center;
+}
+/* Estilos para la clase Trayectoria */
+ /* .trayectoria {
+    border: 2px solid #4CAF50; */ /* Borde verde */
+    /* border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 30px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 128, 0, 0.3); */ /* Sombra verde */
+/* } */ 
+
+
+#formularioEstudiante{
+    width: 75%;
+    margin-left: 5%;
+    margin-top: 25px;
+    justify-content: space-between;
+    display: flex;
+    font-weight: bold;
+    color:khaki;
+}
+.info{
+    width: 100%;
+    border-radius: 5px;
+    height: 35px;
+    display: flex;
+}
+
+#materias{
+    margin-left: 5%;
+    color: khaki;
+    font-weight: bold;
+    display: flex;
+}
+
+.materias1{
+    margin-top: 25px;
+    margin-left: 15%;
+    justify-content: space-between;
+}
+.materias2{
+    margin-left: 25%;
+}
+/* Estilos para los espacios curriculares */
+.espacio-curricular {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #d9f2d9; /* Fondo verde claro */
+    border-radius: 5px;
+}
+
+/* Estilos para los nombres de espacios curriculares */
+.nombre {
+    font-weight: bold;
+}
+
+/* Estilos para los cuatrimestres */
+.cuatrimestre {
+    margin-bottom: 15px;
+}
+
+/* Estilos para los botones */
+.boton {
+    background-color: #4CAF50; /* Verde */
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+    text-align: left;
+}
+
+.boton:hover {
+    background-color: #45a049; /* Verde más oscuro */
+}
+.botonFinal{
+   margin-left: 25%;
+   width: 50%;
+   height: 45px;
+   border-radius: 5px;
+    margin-bottom: 70px;
+    font-weight: bold;
+}
+footer {
+    background-color: #333; /* Color de fondo oscuro */
+    color: white; /* Texto en color blanco */
+    padding: 20px; /* Espaciado interno */
+    text-align: center; /* Alineación centrada del texto */
+  }

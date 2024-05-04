@@ -1,0 +1,55 @@
+.button
+{
+    border-radius: 15%;
+    border-bottom: 10%;
+    border-style: inset;
+    background-color: rgb(176, 169, 182) ;
+}
+.button:hover
+{
+    background-color: rgba(171, 85, 224, 0.493);
+}
+.fondo
+{
+    background-color: rgb(115, 115, 208);
+}
+
+.fondotut
+{
+    background-color: rgb(215, 215, 165);
+}
+
+.titulo
+{
+    margin-bottom: 20px;
+    color: rgb(47, 150, 116);
+    text-align: center;
+}
+
+.formulariotut
+{
+    text-align: justify;
+}
+
+.form-label
+{
+    color: rgb(81, 158, 148);
+    
+}
+
+.form-control
+{
+    width: 10%;
+    height: 10%;
+}
+
+.form-text
+{
+    color: rgb(81, 158, 148);
+    
+}
+
+.footertut
+{
+    background-color: rgb(215, 215, 165);
+}
